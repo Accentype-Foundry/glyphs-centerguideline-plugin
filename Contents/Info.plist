@@ -13,15 +13,15 @@
 	<key>CFBundleName</key>
 	<string>Enhanced Center Guideline</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string> <!-- 1.0 -->
+	<string>1.0.0</string>
 	<key>CFBundleVersion</key>
-	<string>1</string> <!-- 123 -->
+	<string>1</string>
 	<key>UpdateFeedURL</key>
-	<string></string>
+	<string>https://raw.githubusercontent.com/Accentype-Foundry/glyphs-centerguideline-plugin/master/Contents/Info.plist</string>
 	<key>productPageURL</key>
-	<string></string>
+	<string>https://github.com/Accentype-Foundry/glyphs-centerguideline-plugin</string>
 	<key>productReleaseNotes</key>
-	<string></string>
+	<string>Initial release with multi-language support and smart diagonals.</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright, Miklós Ferencz, 2026</string>
 	<key>NSPrincipalClass</key>
