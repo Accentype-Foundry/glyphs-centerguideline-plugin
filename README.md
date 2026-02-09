@@ -8,10 +8,9 @@ A **Glyphs 3** plugin to quickly generate centered guidelines between selected o
 
 ## Installation
 
-Install via **Plugin Manager** or manually by dragging `centerguideline.glyphsPlugin` to the Glyphs 3 Plugins folder.  
-Alternatively, simply download `centerguideline.glyphsPlugin` and double-click it to install.
-
-> **Note:** Please **restart Glyphs** after installation to activate the plugin.
+1. **Download the plugin:** Go to the [Latest Release](https://github.com/Accentype-Foundry/glyphs-centerguideline-plugin/releases/latest) page and download the `CenterGuideline.glyphsPlugin.zip` file.
+2. **Unzip the file:** Locate the downloaded `.zip` file and double-click to extract it.
+3. **Install:** Double-click the `CenterGuideline.glyphsPlugin` file. Glyphs will ask if you want to install it. Confirm and restart Glyphs.
 
 ---
 
