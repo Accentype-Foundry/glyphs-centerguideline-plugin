@@ -34,7 +34,6 @@ Once installed and Glyphs is restarted, you’ll find the tool here:
 
 ## Features
 
-* **Localized** – Supports English, Hungarian, German, French, Spanish, Portuguese, and Chinese.  
 * **Context-Aware** – Calculates midpoints and angles based on your selection.  
 * **Smart Diagonals** – Creates diagonal guidelines and can calculate perpendicular diagonals based on your selection for precise positioning.
 
