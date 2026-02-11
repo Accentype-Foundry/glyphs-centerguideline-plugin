@@ -4,7 +4,7 @@ A **Glyphs 3** plugin to quickly generate centered guidelines between selected o
 
 ![Enhanced Center Guideline Screenshot](assets/images/centerguideline.png)
 
----
+
 
 ## Installation
 
