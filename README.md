@@ -1,10 +1,8 @@
 # Enhanced Center Guideline
 
-A **Glyphs 3** plugin to quickly generate centered guidelines between selected objects. Works with node-to-node, node-to-guide, and guide-to-guide selections.
-
 ![Enhanced Center Guideline Screenshot](assets/images/centerguideline.png)
 
-
+A **Glyphs 3** plugin to quickly generate centered guidelines between selected objects. Works with node-to-node, node-to-guide, and guide-to-guide selections.
 
 ## Installation
 
