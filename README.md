@@ -24,7 +24,7 @@ Once installed and Glyphs is restarted, you’ll find the tool here:
 
 1. Select at least 2 nodes, 2 guides, or one of each. Works with 4 nodes as well.
 2. Go to **Edit → Enhanced Center Guideline** or use the shortcut:  
-   **`Cmd + Opt + Ctrl + G`**
+   **`Cmd + Opt + Ctrl + g`**
 3. Select the desired orientation from the popup dialog:  
    * **Horizontal / Vertical**  
    * **Diagonal (Perpendicular)** – Useful for slanted stems.  
